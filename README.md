@@ -1,6 +1,6 @@
 ### Olá! Eu sou Nelson Afonso
 
-- 🌱 Atualmente estudando python
+- 🌱 Atualmente estudando JAVA
 - 📫 Você pode me contatar pelo email: nelsonafonso412@gmail.com
 - 🗺 Moro em Camaçari/BA
 
