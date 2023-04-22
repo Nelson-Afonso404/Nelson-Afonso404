@@ -1,8 +1,8 @@
 ### Olá! Eu sou Nelson Afonso
 
-- 🌱 Atualmente estudando JAVA
+- 🌱 Me capacitando para ser um DEV FULLSTACK
 - 📫 Você pode me contatar pelo email: nelsonafonso412@gmail.com
-- 🗺 Moro em Camaçari/BA
+- 📌 Moro no Brasil
 
 <div align="center">
   <a href="https://github.com/Nelson-Afonso404">
