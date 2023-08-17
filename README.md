@@ -1,6 +1,6 @@
 ### Olá! Eu sou Nelson Afonso
 
-- 🌱 Me capacitando para ser um DEV FULLSTACK
+- 🌱 Desenvoldedor
 - 📫 Você pode me contatar pelo email: nelsonafonso412@gmail.com
 - 📌 Moro no Brasil
 
